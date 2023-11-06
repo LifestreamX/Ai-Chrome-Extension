@@ -4,6 +4,9 @@
 
 Ai-Chrome-Extension
 
+![Video Thumbnail](ai-chrome-extension.mp4)
+
+
 
 ## About The App
 

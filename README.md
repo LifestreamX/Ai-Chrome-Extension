@@ -2,26 +2,15 @@
 
 # Project Title
 
-nutritiontracker
+Ai-Chrome-Extension
 
-Access my site at https://nutrition-tracker-psi.vercel.app
 
 ## About The App
 
-[nutritiontracker] is a nutrition tracker app for the user and their nutrition information. The user can set macronutrient goals and keep track of them with charts on the user dashboard. The user can use a nutrition API to search for specific foods that they can view with the option of charts to display the data and add the food item to their dashboard to compare to their goals they have set. The user can submit the log for that day to their food logs which they have access to in their food log page to keep track of every food item for that day sorted by date with pagination as the logs grow in size. The site has form validation for account creation along with settings for changing the users avatar and dark mode theme. Charts are updated dynamically comparing the goals the user sets and the nutritional information from the foods that are added to the log.
+[Ai-Chrome-Extension] is a chrome extension that allows a user to communicate with an AI. The AI will generate a response depending on what the user types. 
 
 
-![](screenshots/screenshot10.png)
-![](screenshots/screenshot11.png)
-![](screenshots/screenshot1.png)
-![](screenshots/screenshot2.png)
-![](screenshots/screenshot3.png)
-![](screenshots/screenshot4.png)
-![](screenshots/screenshot5.png)
-![](screenshots/screenshot6.png)
-![](screenshots/screenshot7.png)
-![](screenshots/screenshot8.png)
-![](screenshots/screenshot9.png)
+
 
 
 ## Technologies
@@ -37,7 +26,7 @@ Access my site at https://nutrition-tracker-psi.vercel.app
 
 ## Approach
 
-Built with Next.js for utilizing server side rendering for server components. Typescript for type checking. Styled with tailwind for responsive design. Using Nutrition API for fetching data. 
+Built with Next.js for utilizing server side rendering for server components. Typescript for type checking. Styled with tailwind for responsive design. Using Hugging Face for API
 
 
 

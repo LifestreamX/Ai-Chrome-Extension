@@ -4,7 +4,7 @@
 
 Ai-Chrome-Extension
 
-![Video Thumbnail](ai-chrome-extension.mp4)
+![Video Thumbnail](ezgif.com-video-to-gif.mp4)
 
 
 

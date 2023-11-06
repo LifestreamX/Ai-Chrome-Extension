@@ -4,7 +4,8 @@
 
 Ai-Chrome-Extension
 
-![Video Thumbnail](ezgif.com-video-to-gif.mp4)
+
+Video Example - https://github.com/LifestreamX/Ai-Chrome-Extension/assets/98836235/cb3ed35a-65e9-4c1b-9612-7f5a8f637153
 
 
 

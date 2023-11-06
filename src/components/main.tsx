@@ -49,7 +49,7 @@ export function Main({ name = "Extension" }: MainProps) {
   }
 
   return (
-    <main className="w-full p-10 border-black border-2  ">
+    <main className="p-10 border-black border-2  ">
       <div>
         <button
           onClick={handleClosePopup}
@@ -82,11 +82,11 @@ export function Main({ name = "Extension" }: MainProps) {
         )}
       </div>
 
-      <div className="flex top-6 mt-10 ">
+      <div className="flex absolute bottom-0 left-0 right-0 justify-center mb-8 ">
         <input
           onChange={(e) => setUserInput(e.target.value)}
           value={userInput}
-          className="border-black border-2 rounded-md mx-2 text-lg p-2 font-bold"
+          className="border-black border-2 rounded-md mx-2 text-lg p-2 font-bold w-2/3"
           onKeyDown={handleKeyDown}
         />
         <button
